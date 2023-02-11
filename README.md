@@ -9,5 +9,5 @@
 ✨ I'm a PhD Student working in social and cognitive psychology
 
 - 💬 Ask me about: Psychology, experimental designs and maybe some R
-- 📫 How to reach me: [@ViictorOG](https://twitter.com/ViictorOG) / victor.AUGER@uca.fr
+- 📫 How to reach me: victor.AUGER@uca.fr
 
