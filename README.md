@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there! I'm Victor Auger </h3>
 <p align="center">
   <a href=https://www.lapsco.fr/auger-victor.html>Lab</a> •
-  <a href=https://twitter.com/ViictorOG>Twitter</a>
+  <a href=https://twitter.com/victauger>Twitter</a>
 </p>
 
 ---
